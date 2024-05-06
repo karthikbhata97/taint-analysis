@@ -1,0 +1,2 @@
+syscall_with_vm_check_access_rights
+syscall_without_vm_check_access_rights
